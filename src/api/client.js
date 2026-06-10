@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8080";
+const BASE_URL = "https://pem-backend-p90m.onrender.com";
 
 function getToken() {
   return localStorage.getItem("pem_token");
